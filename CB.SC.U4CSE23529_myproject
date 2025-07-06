@@ -1,0 +1,21 @@
+# What I Learned and What I'm Still Confused About
+
+##  What I Learned
+- How to create and edit files in a GitHub repository 
+- The basics of Markdown syntax:
+  - `#` for headings
+  - `*italic*` and `**bold**`
+  - Lists, links, images, and code blocks
+- How to push changes to GitHub and track them with commits
+- How to create a Profile README to showcase myself
+
+## What I'm Still Confused About
+- How to resolve merge conflicts properly 
+- Best practices for writing really professional-looking Markdown
+- How Git branching works in larger teams
+- How to link different markdown files together neatly in the repo
+
+##  Next Steps
+- Experiment more with Markdown styles
+- Practice creating branches and pull requests
+- Learn how to use GitHub Issues and Projects for task tracking
